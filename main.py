@@ -59,5 +59,4 @@ class TestUrbanRoutes:
         # Add in S8
         number_of_ice_creams = 2
         for _ in range(2):
-            # Add in S8
             pass
