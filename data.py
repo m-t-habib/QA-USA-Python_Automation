@@ -1,6 +1,6 @@
 # URL for the Urban Routes server
 
-URBAN_ROUTES_URL = 'https://cnt-1eb6b92b-a285-4565-bdbc-8ce02d1049c3.containerhub.tripleten-services.com/'
+URBAN_ROUTES_URL = 'https://cnt-557db2bd-e92f-40be-afe5-7fce82679378.containerhub.tripleten-services.com/'
 
 # File with constants
 
